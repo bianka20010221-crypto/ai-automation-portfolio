@@ -25,6 +25,8 @@ Nem kizárólag prototípusokat készítek: a tervezés mellett foglalkozom tele
 | **AI translation workflow** | Tesztelhető Python workflow, magyarázható routing, emberi felülvizsgálat és biztonságos fallback | Python, CLI, JSON, unit tests | [Repository](https://github.com/bianka20010221-crypto/translation-ai-workflow-demov2) |
 | **Interaktív baleseti szimulátor** | Böngészőben futó, paramétervezérelt 2D/3D mozgásmodell és első kontaktuson alapuló ütközésdetektálás | JavaScript, Canvas, Three.js, SAT | [Élő demó](https://bianka20010221-crypto.github.io/interactive-collision-simulator/) · [Repository](https://github.com/bianka20010221-crypto/interactive-collision-simulator) |
 | **Moxie animált pet** | Egyedi digitális karakter teljes v2 animációs készlete, transzparencia-ellenőrzéssel és vizuális QA-val | PNG spritesheet, 8×11 state grid, QA tooling | [Repository](https://github.com/bianka20010221-crypto/moxie-animated-pet-showcase) |
+| **Garden Panzió** | Többoldalas szálláshely-weboldal és csoportos ajánlatkérési folyamat, átadható Elementor-sablonokkal | HTML, CSS, JavaScript, WordPress, Elementor, PHP | [Esettanulmány](case-studies/garden-panzio.md) |
+| **Szárnyas Pék** | Reszponzív márka- és webshopfelület, privát előnézet, komponensrendszer és integrációs előkészítés | WordPress, Elementor, WooCommerce, Cloudflare Workers | [Esettanulmány](case-studies/szarnyas-pek.md) |
 
 ## Hogyan dolgozom?
 
