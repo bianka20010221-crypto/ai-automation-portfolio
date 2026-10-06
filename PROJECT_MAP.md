@@ -10,7 +10,7 @@ Ez az oldal megmutatja, hogy az egyes munkák hol találhatók, milyen formában
 |---|---|---|---|
 | OpenClaw multi-agent rendszer | [Esettanulmány](case-studies/openclaw-multi-agent.md) | Dokumentált működő rendszer | Sanitizált agent-routing és approval kódminta |
 | CégMotor | [Esettanulmány](case-studies/cegmotor.md) · [Élő demó](https://cegmotor-app.bianka1717.chatgpt.site) · [Kódminta](https://github.com/bianka20010221-crypto/cegmotor-business-automation-showcase) | Demó és tesztelt security showcase | Rövid architektúraábra és képernyőképes termékbemutató |
-| AI.Trader | [Esettanulmány](case-studies/ai-trader.md) | Privát forrás, publikus szakmai összefoglaló | Titokmentes UI- és architektúra-showcase |
+| AI.Trader | [Esettanulmány](case-studies/ai-trader.md) | Privát forrás és privát működő showcase; publikus csak a szakmai összefoglaló | Portfóliószinten tartani, implementáció publikálása nélkül |
 | Vállalati adatintegráció és BI | [Esettanulmány](case-studies/enterprise-data-hub.md) · [Repository](https://github.com/bianka20010221-crypto/adatrendszer-data-pipeline-showcase) | Javított, sanitizált publikus kódminta | Példaadatokból generált dashboard-kimenet |
 | AI translation workflow | [Repository](https://github.com/bianka20010221-crypto/translation-ai-workflow-demov2) | Futtatható Python projekt, unit tesztekkel | CI workflow és coverage-jelvény |
 | PrivateChef operations | [Esettanulmány](case-studies/privatechef.md) · [Repository](https://github.com/bianka20010221-crypto/privatechef-operations-automation) | Fiktív adatos, futtatható és tesztelt demo | Export CSV/XLSX és nyomtatható mintakimenet |
