@@ -2,7 +2,7 @@
 
 > IT AI developer · multi-agent systems · business automation · API integrations · data workflows
 
-[Magyar bemutatkozás](#bemutatkozás) · [Project menu](#project-menu) · [Tech stack](#tech-stack) · [Documents](#documents) · [Contact](#contact)
+[Magyar bemutatkozás](#bemutatkozás) · [Project menu](#project-menu) · [Projekt-térkép](PROJECT_MAP.md) · [Tech stack](#tech-stack) · [Documents](#documents) · [Contact](#contact)
 
 ## Bemutatkozás
 
