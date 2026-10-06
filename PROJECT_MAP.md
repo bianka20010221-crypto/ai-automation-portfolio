@@ -8,6 +8,7 @@ Ez az oldal megmutatja, hogy az egyes munkák hol találhatók, milyen formában
 
 | Projekt | Nyilvános hely | Jelenlegi állapot | Következő lépés |
 |---|---|---|---|
+| Azure AI use-case governance | [Repository](https://github.com/bianka20010221-crypto/azure-ai-usecase-governance-demo) | Futtatható, tesztelt Azure Functions referencia és CI | Valódi Azure-előfizetésben kontrollált próbatelepítés |
 | OpenClaw multi-agent rendszer | [Esettanulmány](case-studies/openclaw-multi-agent.md) | Dokumentált működő rendszer | Sanitizált agent-routing és approval kódminta |
 | CégMotor | [Esettanulmány](case-studies/cegmotor.md) · [Élő demó](https://cegmotor-app.bianka1717.chatgpt.site) · [Kódminta](https://github.com/bianka20010221-crypto/cegmotor-business-automation-showcase) | Demó és tesztelt security showcase | Rövid architektúraábra és képernyőképes termékbemutató |
 | AI.Trader | [Esettanulmány](case-studies/ai-trader.md) | Privát forrás és privát működő showcase; publikus csak a szakmai összefoglaló | Portfóliószinten tartani, implementáció publikálása nélkül |

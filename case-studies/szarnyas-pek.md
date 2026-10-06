@@ -2,6 +2,8 @@
 
 [← Vissza a projektmenühöz](../README.md#project-menu)
 
+**English summary:** A responsive bakery brand and commerce interface with reusable WordPress/Elementor components, private previews, mobile QA and integration-ready product and delivery flows.
+
 ## Üzleti cél
 
 Egy karakteres pékségi márka mobilon és asztali gépen is gyorsan áttekinthető, vásárlásra ösztönző webes felületének kialakítása, az online kínálat és a fizikai üzletek egységes bemutatásával.

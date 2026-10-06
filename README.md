@@ -16,6 +16,7 @@ Nem kizárólag prototípusokat készítek: a tervezés mellett foglalkozom tele
 
 | Projekt | Mit bizonyít? | Technológia | Részletek |
 |---|---|---|---|
+| **Azure AI use-case governance** | AI/ML use case-ek validálása, governance-döntés, emberi jóváhagyás és megfigyelhetőség | Azure Functions, Microsoft Foundry, Entra ID, Application Insights, Python | [Repository](https://github.com/bianka20010221-crypto/azure-ai-usecase-governance-demo) |
 | **OpenClaw multi-agent rendszer** | Öt elkülönített agent, saját szerepek és workspace-ek, csatornakötések, ütemezés, emberi jóváhagyás, biztonságos VPS-üzemeltetés | OpenClaw, Claude, Ubuntu, systemd, nginx, OAuth | [Esettanulmány](case-studies/openclaw-multi-agent.md) |
 | **CégMotor** | Több-bérlős vállalati munkatér lead-, ajánlat-, feladat-, számla-, csapat- és AI-agent folyamatokkal | React, TypeScript, Cloudflare Workers, D1, Drizzle, OAuth | [Esettanulmány](case-studies/cegmotor.md) · [Élő demó](https://cegmotor-app.bianka1717.chatgpt.site) · [Biztonsági kódminta](https://github.com/bianka20010221-crypto/cegmotor-business-automation-showcase) |
 | **Vállalati adatintegráció és BI** | Több külső rendszer közös adatmodellje, ütemezett adatbegyűjtés, QA és KPI-riporting | PHP, MySQL, REST, cron, JWT/RS256 | [Esettanulmány](case-studies/enterprise-data-hub.md) · [Kódminta](https://github.com/bianka20010221-crypto/adatrendszer-data-pipeline-showcase) |

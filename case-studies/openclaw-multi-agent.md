@@ -2,6 +2,8 @@
 
 [← Vissza a projektmenühöz](../README.md#project-menu)
 
+**English summary:** A permission-aware multi-agent environment with isolated roles, workspaces, channels, schedules and approval boundaries, operated on a persistent VPS deployment.
+
 ## A probléma
 
 Több, egymástól eltérő vállalati feladatot kellett úgy AI-agentekhez rendelni, hogy a szerepek, a tudás, a csatornák és a hozzáférések ne keveredjenek össze, a rendszer pedig tartósan és ellenőrizhetően üzemeljen.
@@ -56,4 +58,3 @@ A multi-agent rendszer nem pusztán több chatbot. Elkülönített felelőssége
 - a helyreállítás dokumentált és tesztelhető.
 
 **Technológia:** OpenClaw · Claude · Ubuntu 24.04 · Node.js · systemd · nginx · WebSocket · Google OAuth · Telegram · Discord
-

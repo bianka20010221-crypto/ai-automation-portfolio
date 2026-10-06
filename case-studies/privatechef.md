@@ -2,6 +2,8 @@
 
 [← Vissza a projektmenühöz](../README.md#project-menu)
 
+**English summary:** An operations workflow that transforms weekly order documents into customer, kitchen, courier and label outputs while preserving one validated source of truth and privacy-safe handling.
+
 ## Kiinduló helyzet
 
 A rendelési adatok PDF-ekben és különálló rendszerekben érkeztek. A konyhának, futárnak, ügyfélkommunikációnak és címkenyomtatásnak ugyanabból a forrásból, de eltérő formában volt szüksége adatokra.
@@ -29,4 +31,3 @@ flowchart LR
 - ellenőrzési pontokkal ellátott üzemeltetési tudásbázis.
 
 **Technológia:** Python · OCR · PDF · Excel · CSV · Zapier · Routific · MailerLite · Brother P-touch
-

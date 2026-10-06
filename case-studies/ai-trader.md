@@ -2,6 +2,8 @@
 
 [← Vissza a projektmenühöz](../README.md#project-menu)
 
+**English summary:** A private educational platform with role-based access, structured courses, progress tracking, an AI mentor concept and server-side integrations. Only this high-level case study is public; implementation details and proprietary learning content remain private.
+
 ## Mit tartalmaz?
 
 - szerepkörös hitelesítés és védett felhasználói felület;

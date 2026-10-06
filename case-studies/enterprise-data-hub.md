@@ -2,6 +2,8 @@
 
 [← Vissza a projektmenühöz](../README.md#project-menu) · [Sanitizált kódminta](https://github.com/bianka20010221-crypto/adatrendszer-data-pipeline-showcase)
 
+**English summary:** An enterprise data-integration workflow that consolidates analytics, commerce, newsletter and loyalty data into a quality-controlled reporting model with isolated failures and auditable processing.
+
 ## Cél
 
 Webanalitikai, webshop-, hírlevél- és hűségprogram-adatok összekapcsolása egy közös, vezetői riportolásra alkalmas adatmodellben.
@@ -28,4 +30,3 @@ flowchart LR
 ```
 
 **Technológia:** PHP · MySQL · REST API · cron · GA4 · UNAS · MailerLite · PassKit · JWT/RS256
-

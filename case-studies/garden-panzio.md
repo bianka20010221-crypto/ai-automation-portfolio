@@ -2,6 +2,8 @@
 
 [← Vissza a projektmenühöz](../README.md#project-menu)
 
+**English summary:** A responsive multi-page hospitality website and reusable WordPress/Elementor delivery package designed to improve room, group and event enquiries through a clearer conversion path.
+
 ## Üzleti cél
 
 A panzió webes jelenlétének átalakítása olyan többoldalas felületté, amely a szobafoglalás mellett a csoportos, tábori és rendezvényjellegű megkereséseket is érthetően vezeti végig.
