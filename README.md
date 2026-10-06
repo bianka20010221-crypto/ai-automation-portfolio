@@ -17,12 +17,14 @@ Nem kizárólag prototípusokat készítek: a tervezés mellett foglalkozom tele
 | Projekt | Mit bizonyít? | Technológia | Részletek |
 |---|---|---|---|
 | **OpenClaw multi-agent rendszer** | Öt elkülönített agent, saját szerepek és workspace-ek, csatornakötések, ütemezés, emberi jóváhagyás, biztonságos VPS-üzemeltetés | OpenClaw, Claude, Ubuntu, systemd, nginx, OAuth | [Esettanulmány](case-studies/openclaw-multi-agent.md) |
-| **CégMotor** | Több-bérlős vállalati munkatér lead-, ajánlat-, feladat-, számla-, csapat- és AI-agent folyamatokkal | React, TypeScript, Cloudflare Workers, D1, Drizzle, OAuth | [Esettanulmány](case-studies/cegmotor.md) · [Élő demó](https://cegmotor-app.bianka1717.chatgpt.site) |
+| **CégMotor** | Több-bérlős vállalati munkatér lead-, ajánlat-, feladat-, számla-, csapat- és AI-agent folyamatokkal | React, TypeScript, Cloudflare Workers, D1, Drizzle, OAuth | [Esettanulmány](case-studies/cegmotor.md) · [Élő demó](https://cegmotor-app.bianka1717.chatgpt.site) · [Biztonsági kódminta](https://github.com/bianka20010221-crypto/cegmotor-business-automation-showcase) |
 | **Vállalati adatintegráció és BI** | Több külső rendszer közös adatmodellje, ütemezett adatbegyűjtés, QA és KPI-riporting | PHP, MySQL, REST, cron, JWT/RS256 | [Esettanulmány](case-studies/enterprise-data-hub.md) · [Kódminta](https://github.com/bianka20010221-crypto/adatrendszer-data-pipeline-showcase) |
 | **AI.Trader** | Szerepkörös oktatási platform, AI mentor, szerveroldali végpontok és Telegram-integráció | JavaScript, Supabase, Cloudflare Workers, Telegram API | [Esettanulmány](case-studies/ai-trader.md) |
-| **PrivateChef automatizáció** | PDF-rendelésekből ügyfél-, konyhai-, útvonal- és címkeadat; értesítési workflow | Python, OCR, Zapier, Routific, MailerLite | [Esettanulmány](case-studies/privatechef.md) |
+| **PrivateChef automatizáció** | PDF-rendelésekből ügyfél-, konyhai-, útvonal- és címkeadat; értesítési workflow | Python, OCR, Zapier, Routific, MailerLite | [Esettanulmány](case-studies/privatechef.md) · [Fiktív adatos kódminta](https://github.com/bianka20010221-crypto/privatechef-operations-automation) |
 | **Marketplace és üzleti integrációk** | Webshop-, hűségprogram-, számlázási és kommunikációs rendszerek összekapcsolása | UNAS, WooCommerce, PassKit, Billingo, Számlázz.hu, Microsoft Graph | [Esettanulmány](case-studies/marketplace-integrations.md) |
 | **AI translation workflow** | Tesztelhető Python workflow, magyarázható routing, emberi felülvizsgálat és biztonságos fallback | Python, CLI, JSON, unit tests | [Repository](https://github.com/bianka20010221-crypto/translation-ai-workflow-demov2) |
+| **Interaktív baleseti szimulátor** | Böngészőben futó, paramétervezérelt 2D/3D mozgásmodell és első kontaktuson alapuló ütközésdetektálás | JavaScript, Canvas, Three.js, SAT | [Élő demó](https://bianka20010221-crypto.github.io/interactive-collision-simulator/) · [Repository](https://github.com/bianka20010221-crypto/interactive-collision-simulator) |
+| **Moxie animált pet** | Egyedi digitális karakter teljes v2 animációs készlete, transzparencia-ellenőrzéssel és vizuális QA-val | PNG spritesheet, 8×11 state grid, QA tooling | [Repository](https://github.com/bianka20010221-crypto/moxie-animated-pet-showcase) |
 
 ## Hogyan dolgozom?
 
@@ -66,4 +68,3 @@ A publikus repók sanitizált bemutatók. Nem tartalmaznak ügyféladatot, hozz�
 - GitHub: [@bianka20010221-crypto](https://github.com/bianka20010221-crypto)
 - E-mail: [bianka20010221@gmail.com](mailto:bianka20010221@gmail.com)
 - Helyszín: Szeged, Magyarország
-
